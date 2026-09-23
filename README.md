@@ -1,2 +1,4 @@
 # OPERATION-BLACK-FORGE
-This report presents the executive-level findings of a controlled, authorised security assessment conducted against OPFOR-02 ("Healthcare", 192.168.85.130), an isolated academic lab target issued under Operation Black Forge. 
+This report presents the executive-level findings of a controlled, authorised security assessment conducted against OPFOR-02 ("Healthcare", 192.168.85.130), an isolated academic lab target issued under Operation Black Forge. The assessment was performed entirely within a segmented, host-only lab network with no bridged or public-internet exposure, in accordance with the operation's Rules of Engagement.
+The engagement systematically discovered and validated the target's network and web attack surface, identified two critical end-of-life services, and developed and documented an evidence-based exploit-chain decision using vendor advisories and Exploit-DB research. Initial-access attempts were carried out against the least destructive candidate path identified through this research. 
+
